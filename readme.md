@@ -31,7 +31,7 @@ Open Instagram: Log into your Instagram account in a new tab.
 
 Activate the Extension: Click on the extension icon in the toolbar.
 
-Start Automation: Click the "Enable" button to start automatically liking posts.
+Start Automation: Click the "Start" button to start automatically liking posts.
 
 Stop Automation: Click the "Stop" button to halt the liking process.
 
