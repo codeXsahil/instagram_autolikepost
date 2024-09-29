@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Auto Like and Scroll",
+  "version": "1.0",
+  "description": "Auto like and scroll Instagram posts seamlessly.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab", "scripting"]
+}
